@@ -1,0 +1,19 @@
+* {
+  border: 1px black solid;
+}
+
+.section {
+  width: 62%;
+}
+
+aside {
+  width: 38%;
+}
+
+#nav {
+  width: 50%;
+}
+
+article {
+  border: 2px red dotted;
+}
